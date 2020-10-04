@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Collection
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -38,6 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 2216028541
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: PLAY
+    uniqueID: 3942550241
+    locked: 0
+  - name: FGr
+    uniqueID: 1863966185
     locked: 0
